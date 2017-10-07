@@ -1,0 +1,20 @@
+body {
+	background-color:#4c97d1;
+	color:#fdaf19;
+	
+}
+span {
+	color:#f48f1d;
+}
+.addon1 {
+	color:#ffffff;
+}
+div {
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+}
+.addon2 {
+	color:#000000;
+}
